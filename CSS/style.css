@@ -9,3 +9,14 @@ text-decoration: underline;
 
 }
 
+/* .logo {
+    size-adjust: 20px;
+
+} */
+
+
+
+/* Work Section */
+.cards-wrapper {
+    column-gap: 20px;
+}
