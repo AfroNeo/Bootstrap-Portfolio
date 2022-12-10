@@ -22,7 +22,7 @@ text-decoration: underline;
 
 /* Work Section */
 .cards-wrapper {
-    column-gap: 20px;
+    column-gap: 40px;
 }
 
 .card {
@@ -31,7 +31,6 @@ text-decoration: underline;
 .card:hover {
     transform: scale(1.15);
 }
-
 
 /* Work Section - End */
 
