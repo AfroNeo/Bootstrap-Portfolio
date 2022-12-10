@@ -14,6 +14,7 @@ text-decoration: underline;
 
 } */
 
+
 .landing-page {
     width: 100%;
 }
@@ -32,5 +33,46 @@ text-decoration: underline;
     transform: scale(1.15);
 }
 
+
+
 /* Work Section - End */
 
+/* skills section */
+
+* {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+/* body {
+    padding: 25px;
+
+} */
+
+.container{
+    display: flex;
+    align-items: start;
+    border: 10px;
+    outline-color: black;
+
+
+}
+/* img {
+    order: 999;
+}
+
+.text {
+    order: 1;
+
+} */
+
+
+.statement{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: left;
+    text-justify: auto;
+    padding: 30px;
+    
+}
