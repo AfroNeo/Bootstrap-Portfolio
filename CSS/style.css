@@ -1,6 +1,17 @@
 
+.navbar-brand {
+    font-size: 50px;
+
+}
+
+.logo {
+    width: 80px;
+
+}
+
 .nav-link {
     transition: all 0.2s;
+    font-size: 36px;
 
 }
 
@@ -74,5 +85,10 @@ box-sizing: border-box;
     text-align: left;
     text-justify: auto;
     padding: 30px;
-    
 }
+
+
+/* skill section */
+
+
+
