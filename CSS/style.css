@@ -126,5 +126,27 @@ box-sizing: border-box;
     padding: 60px 250px 100px 250px;
 }
 
+/* footer section
+.card-body-footer {
+text-align: center;
+}
 
+.card title {
 
+} */
+/* container-fluid2 {
+    text-align: center;
+} */
+/* .navbar-brand {
+    font-size: 50px;
+    padding: 0 40px;
+    text-shadow: 20px;
+
+} */
+
+.nav-item2 {
+    transition: all 0.2s;
+    font-size: 36px;
+    padding-left: 300px;
+    margin: 60px;
+}
