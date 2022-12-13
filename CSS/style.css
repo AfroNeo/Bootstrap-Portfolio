@@ -108,6 +108,36 @@ box-sizing: border-box;
 } */
 
 
+.myskills {
+    font-size: 26px;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 60px 250px 60px 250px;
+}
+
+.list-group {
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-bottom: 60px;
+    text-align: center;
+}
+
+.list-group-item active {
+color: aqua;
+
+}
+
+/* 
+.list-group-item {
+padding-left: 60px;
+align-self: center;
+
+} */
+
+
+/* skill section END */
+
+/*Contact section */
 .statement{
     font-size: 26px;
     font-family: sans-serif;
@@ -116,9 +146,6 @@ box-sizing: border-box;
 }
 
 
-/* skill section END */
-
-/*Contact section */
 .contact{
     font-size: 26px;
     font-family: sans-serif;
