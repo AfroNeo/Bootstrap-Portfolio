@@ -120,10 +120,11 @@ box-sizing: border-box;
     padding-right: 400px;
     padding-bottom: 60px;
     text-align: center;
+    font-size: 24px;
+    font-family: sans-serif;
 }
 
 .list-group-item active {
-color: aqua;
 
 }
 
@@ -151,6 +152,10 @@ align-self: center;
     font-family: sans-serif;
     text-align: center;
     padding: 60px 250px 100px 250px;
+}
+
+.pic {
+    padding-left: 1200px;
 }
 
 /* footer section
