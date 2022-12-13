@@ -20,17 +20,12 @@
 text-decoration: underline;
 
 }
-/* 
-.logo {
-    size-adjust: 20px;
 
-} */
 
 
 .landing-page {
     width: 100%;
 }
-
 
 
 /* Work Section */
@@ -50,9 +45,9 @@ text-decoration: underline;
     font-family: sans-serif;
 }
 
-
-
 /* Work Section - End */
+
+
 
 /* skills section */
 
@@ -76,16 +71,6 @@ padding-bottom: 40px;
 color: white;
 }
 
-* {
-padding: 0;
-margin: 0;
-box-sizing: border-box;
-}
-
-/* body {
-    padding: 25px;
-
-} */
 
 .container{
     display: flex;
@@ -97,16 +82,6 @@ box-sizing: border-box;
     margin-top: 100px;
     outline-color: black;
 }
-
-/* img {
-    order: 999;
-}
-
-.text {
-    order: 1;
-
-} */
-
 
 .myskills {
     font-size: 26px;
@@ -128,15 +103,8 @@ box-sizing: border-box;
 
 }
 
-/* 
-.list-group-item {
-padding-left: 60px;
-align-self: center;
-
-} */
-
-
 /* skill section END */
+
 
 /*Contact section */
 .statement{
@@ -158,23 +126,6 @@ align-self: center;
     padding-left: 1200px;
 }
 
-/* footer section
-.card-body-footer {
-text-align: center;
-}
-
-.card title {
-
-} */
-/* container-fluid2 {
-    text-align: center;
-} */
-/* .navbar-brand {
-    font-size: 50px;
-    padding: 0 40px;
-    text-shadow: 20px;
-
-} */
 
 .nav-item2 {
     transition: all 0.2s;
